@@ -1,0 +1,2 @@
+# bubblecolumn_OpenFOAM
+BBC using reactingTwoPhaseEulerFoam
